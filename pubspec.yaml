@@ -1,6 +1,6 @@
 name: gitlib
 version: 0.1.0
-author: Gaurav Agarwal <agarvalgaurav@gmail.com>
+author: Gaurav Agarwal <grv@chromium.org>
 description: A dart based git library
 homepage: https://github.com/dart-gde/gitlib.dart
 environment:
