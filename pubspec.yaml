@@ -1,0 +1,16 @@
+name: gitlib
+version: 0.1.0
+author: Gaurav Agarwal <agarvalgaurav@gmail.com>
+description: A dart based git library
+homepage: https://github.com/dart-gde/gitlib.dart
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+dependencies:
+  archive: '>=1.0.16 <1.1.0'
+  chrome: '>=0.5.3 <0.6.0'
+  diff: '>=0.1.0 <0.2.0'
+  intl: any
+  logging: any
+  utf: any
+dev_dependencies:
+  unittest: '>=0.11.0 <0.12.0'
