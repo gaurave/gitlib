@@ -24,3 +24,5 @@ A Git client library.
  * The library does not support repositories with submodules.
  * It is recommended to use the library for small / medium sized repos.
  * It is recommended to clone repository with `depth = 1`.
+ * Only works with remote git repos that support the smart protocol over http or https.
+ * Only supports basic authentication.
