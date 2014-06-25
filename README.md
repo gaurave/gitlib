@@ -1,3 +1,3 @@
 # gitlib
 
-A dart based git library.
+A Git client library.

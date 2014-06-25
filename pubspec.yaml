@@ -1,8 +1,8 @@
 name: gitlib
-version: 0.1.0
+version: 0.0.1
 author: Gaurav Agarwal <grv@chromium.org>
 description: A dart based git library
-homepage: https://github.com/dart-gde/gitlib.dart
+homepage: https://github.com/dart-lang/spark.dart
 environment:
   sdk: '>=1.0.0 <2.0.0'
 dependencies:
